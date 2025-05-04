@@ -39,7 +39,7 @@ The analysis involved the following steps:
 
 *   **`loan_approval_dataset.csv`**: The input dataset containing applicant information and loan status.
 *   **`loan_approval_prediction.ipynb`**: The Python script containing all the code for data preprocessing, model training, evaluation, and result generation.
-*   **`Loan Approval Prediction Analysis Report.pdf`** (or `.docx`): The final report document detailing the analysis, results, and conclusions.
+*   **`Loan Approval Classification Report.pdf`** : The final report document detailing the analysis, results, and conclusions.
 *   **`README.md`**: This file, providing an overview of the project.
 
 ## Technologies Used
